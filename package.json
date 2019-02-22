@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "yarn parcel index.html"
+  },
+  "dependencies": {
+    "hyperapp": "^1.2.9"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "typescript": "^3.3.3333"
+  }
+}

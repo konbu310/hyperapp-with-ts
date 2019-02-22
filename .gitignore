@@ -1,0 +1,6 @@
+dist
+.cache
+.fusebox
+.vscode
+*.log
+node_modules
