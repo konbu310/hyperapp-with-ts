@@ -1,3 +1,5 @@
 # hyperapp-with-ts
 
-* `yarn start`
+Parcel でビルドして dev サーバをたてる
+
+- `yarn start`
